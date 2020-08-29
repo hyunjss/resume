@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "A HYUN'S RESUME"
+description: "웹 개발자 박아현."
 
 # Build settings
 markdown: kramdown
@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "PARK A HYUN"
-resume_title:                   "Web Programer"
+resume_name:                    "박아현"
+resume_title:                   "ABOUT"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "dkgus66@gmail.com"
@@ -19,9 +19,14 @@ resume_contact_email:           "dkgus66@gmail.com"
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "010-2847-5700"
 
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>
+                        Front-end developer</br>
+                        3년 2개월 경력</br>
+                        1993.08.17</br>
+                        dkgus66@gmail.com
+                      </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,22 +40,19 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
-# resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_github_url:            "https://github.com/hyunjss/resume"
+  # resume_twitter_url:           ""
+  # resume_dribbble_url:          ""
+  # resume_facebook_url:          ""
+  resume_linkedin_url:          "https://linkedin.com/in/아현-박-180463190"
+  resume_instagram_url:         "https://www.instagram.com/__dly__bt/"
+  # resume_website_url:           ""
+  # resume_medium_url:            ""
 resume_print_social_links:      true
 
 # Design settings

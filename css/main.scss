@@ -12,3 +12,67 @@
 
 // Layouts
 @import "resume";
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,300);
+
+html, body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif ;
+}
+
+.thumbnail-wrapper {
+    width: 113px;
+    margin: 0 auto;
+    display: block;
+  }
+  
+  .thumbnail {
+    position: relative;
+    padding-top: 100%;
+    overflow: hidden;
+    border-radius: 100px;
+  }
+  
+  .thumbnail-centered {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transform: translate(50%, 50%);
+  }
+  
+  .thumbnail-img {
+    transform: translate(-50%, -43%);
+    width: 124px;
+  }
+
+.executive-summary p {
+    font-size: 16px;
+    padding-left: 5px;
+}
+
+.item-title {
+    font-size: 23px;
+    padding-bottom: 5px;
+    border-bottom: dotted #c7c7c7;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+.resume-item-title {
+    font-size: 18px;
+}
+.resume-sub-title {
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.resume-item-details {
+    font-weight: 500;
+}
+.resume-item-url {
+    font-size: 16px;
+}
+.resume-skill {
+    border-bottom: 3px solid #848282;
+    padding-bottom: 5px;
+}

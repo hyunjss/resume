@@ -1,0 +1,5 @@
+- project: 자체 홈페이지 유지보수
+  url: https://www.sweetspot.co.kr
+  period: 2019.08 &ndash; 2020.02
+  role: Back-end developer
+  description: Spring boot, JPA기반 Java RESPful API개발 <br/>&ndash; 작업 리스트 &#58; 사업자 회원 전환 API 개발 <br/> &ndash; 기술스택 &#58; Spring boot, Java, JPA, MySQL
