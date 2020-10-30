@@ -3,10 +3,10 @@
   detail: HTML5 / CSS3 / JavaScript / Typescript / Java
 
 - skill: FrameWork
-  detail: Angular.js / Angular / Cordova / Ionic / Spring boot
+  detail: Angular.js / Angular / Cordova / Ionic / Spring boot / React / Next.js / Redux
 
 - skill: Dependency Manager
   detail: npm
 
 - skill: Etc
-  detail: Git, Gradle, JPA, Mysql, MariaDB
+  detail: Git, Gradle, JPA, Mysql, MariaDB, Bootstrap
